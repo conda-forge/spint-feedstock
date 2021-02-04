@@ -5,9 +5,13 @@ Home: http://pysal.org/
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/spint-feedstock/blob/master/LICENSE.txt)
 
 Summary: Efficient calibration of spatial interaction models in Python
+
+Development: http://github.com/pysal/spint
+
+Documentation: http://readthedocs.org/projects/spint
 
 The Spatial Interaction Modeling (SpInt) module provides a collection of
 tools to study spatial interaction processes and analyze spatial
@@ -120,4 +124,5 @@ Feedstock Maintainers
 =====================
 
 * [@TaylorOshan](https://github.com/TaylorOshan/)
+* [@ocefpaf](https://github.com/ocefpaf/)
 
