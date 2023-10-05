@@ -52,5 +52,6 @@ about:
 
 extra:
   recipe-maintainers:
+    - martinfleis
     - TaylorOshan
     - ocefpaf
