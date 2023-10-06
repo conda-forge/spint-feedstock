@@ -11,7 +11,7 @@ source:
   sha256: 7ee6bfc725f8b507abd43f3d397bde8eaf6d85b8052f9ecb0c69f613bfeac4ca
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
@@ -47,7 +47,7 @@ about:
     The Spatial Interaction Modeling (SpInt) module provides a collection of
     tools to study spatial interaction processes and analyze spatial
     interaction data.
-  doc_url: http://readthedocs.org/projects/spint
+  doc_url: https://github.com/pysal/spint
   dev_url: http://github.com/pysal/spint
 
 extra:
