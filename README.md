@@ -11,7 +11,7 @@ Summary: Efficient calibration of spatial interaction models in Python
 
 Development: http://github.com/pysal/spint
 
-Documentation: https://github.com/pysal/spint
+Documentation: https://spint.readthedocs.io/
 
 The Spatial Interaction Modeling (SpInt) module provides a collection of
 tools to study spatial interaction processes and analyze spatial
@@ -104,7 +104,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
